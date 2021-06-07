@@ -1,0 +1,24 @@
+{
+  "name": "node_events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Khadija Rejjaoui",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.6.0",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.22.2",
+    "mongoose": "^5.12.13"
+  }
+}
